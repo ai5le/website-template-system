@@ -1,7 +1,8 @@
 {
-  "name": "template",
-  "description": "template",
-  "main": "index.js",
+  "name": "website-template-system",
+  "version": "1.0.0",
+  "description": "The Website Template System is the perfect place to start your next website design and development.",
+  "main": "gulpfile.js",
   "authors": [
     "ai5le-owner <contact@ai5le.com>"
   ],
