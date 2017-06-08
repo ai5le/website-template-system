@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "website-template-system",
   "version": "1.0.0",
-  "description": "template",
+  "description": "The Website Template System is the perfect place to start your next website design and development.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
