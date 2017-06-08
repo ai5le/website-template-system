@@ -15,6 +15,10 @@
     "test",
     "tests"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai5le/website-template-system.git"
+  },  
   "dependencies": {
     "jquery": "^3.2.1"
   },
