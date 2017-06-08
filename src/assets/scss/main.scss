@@ -1,0 +1,22 @@
+@charset 'UTF-8';
+
+/**
+ * 
+ * Main Style
+ *
+ *
+*/
+
+@import 'settings';
+
+
+/** Add your own custom styles here **/
+
+@media (max-width: 767px) {
+.logo {
+  padding: .4em 0;
+}
+}
+.menu-icon {
+  height:1.7em;
+}

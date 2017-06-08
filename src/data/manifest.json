@@ -1,0 +1,8 @@
+{
+  "main": {
+    "scripts": "<script src='main-b5c0c323b7.js' type='text/javascript'></script>"
+  },
+  "vendor": {
+    "scripts": "<script src='vendor-9a138169ac.js' type='text/javascript'></script>"
+  }
+}
