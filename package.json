@@ -2,11 +2,15 @@
   "name": "website-template-system",
   "version": "1.0.0",
   "description": "The Website Template System is the perfect place to start your next website design and development.",
-  "main": "index.js",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ai5le-owner <contact@ai5le.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai5le/website-template-system.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.18.8",
