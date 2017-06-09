@@ -31,11 +31,9 @@ bower_components
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
-build
 
 # Dependency directories
 node_modules/
-bower_components/
 jspm_packages/
 
 # Typescript v1 declaration files
@@ -59,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Ignore DS_Store files
+.DS_Store
