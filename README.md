@@ -13,7 +13,7 @@ To use this template, your computer needs:
 
 ### Manual Setup
 
-To manually set up the template, first download it with Git:
+To manually set up the template, first download it with Git and where it says `yourprojectname` enter the name of your project.
 
 ```bash
 git clone https://github.com/ai5le/website-template-system yourprojectname
