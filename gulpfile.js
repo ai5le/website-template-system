@@ -72,10 +72,10 @@ gulp.task('clean:js', function() {
 })
 
 gulp.task('watch', function() {
-  gulp.watch(['./src/{pages,layouts,partials,helpers,data}/**/*'], ['panini', panini.refresh]);
-  gulp.watch("./src/assets/scss/**/*.scss", ['sass']);
-  gulp.watch("dist/**/*.html").on('change', browserSync.reload);
-  gulp.watch('./src/assets/js/**/*.js', function() {runSequence('clean:js','scripts:main', 'scripts:vendor')});
+  gulp.watch(['src/{pages,layouts,partials,helpers,data}/**/*'], ['panini', panini.refresh]);
+  gulp.watch('src/assets/scss/**/*.scss', ['sass']);
+  gulp.watch('dist/**/*.html').on('change', browserSync.reload);
+  gulp.watch('src/assets/js/**/*.js', function() {runSequence('clean:js','scripts:main', 'scripts:vendor')});
   gulp.watch('src/assets/fonts/**/*', ['fonts']);
   gulp.watch('src/assets/img/**/*.+(png|jpg|jpeg|gif|svg)', ['images']);
 });
