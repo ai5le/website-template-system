@@ -2,6 +2,7 @@
 
 This website template system is the perfect place to start your next web design and development project.
 
+This website template system will work on any computer.
 
 ## Installation
 
