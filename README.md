@@ -2,7 +2,9 @@
 
 <b>Last Update: June 21, 2017</b>
 
-** NOTE: I am currently working to make this into a complete starter webpage template ** Please feel free to contribute **
+** NOTE: I am currently working to make this into a complete starter website templating system 
+
+** Please feel free to contribute **
 
 This website template system is the perfect place to start your next web design and development project.
 
