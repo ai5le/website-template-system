@@ -8,7 +8,7 @@
 
 This website template system is the perfect place to start your next web design and development project.
 
-This is not a complete website template, it is not for creating a dynamic website. It is only a starting point in creating a design and should be treated as only a template.
+<mark>This is not a complete website template, it is not for creating a dynamic website. It is only a starting point in creating a design and should be treated as only a template.</mark>
 
 This website template system will work on any computer.
 
