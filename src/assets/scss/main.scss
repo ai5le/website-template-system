@@ -1,10 +1,8 @@
 @charset 'UTF-8';
 
-/**
- * 
+/*
+ * Start
  * Main Style
- *
- *
 */
 
 @import 'settings';
@@ -12,14 +10,16 @@
 
 /** Add your own custom styles here **/
 
-@media (max-width: 767px) {
-.logo {
-  padding: .4em 0;
+#sidebar-wrapper {
+  top: 50px;
 }
+.btn-hollow {
+  padding: .6em;
+  border: 2px solid#0074aa;
+  background: transparent;
 }
-.menu-icon {
-  height:1.7em;
-}
-.navbar {
-  margin-bottom: 0;
+.btn-hollow:hover {
+  border: 2px solid #000;
+  box-shadow: 0 0 5px #0074aa;
+  color: #000;
 }

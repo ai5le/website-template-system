@@ -1,0 +1,41 @@
+// ******************* SECTIONS ********************//
+// Intro
+.intro-section,
+.features-section,
+.about-section,
+.services-section,
+.posts-section,
+.contact-section {
+    height: 100%;
+    padding-top: 6em;
+    h1 {
+      text-align: center;
+    }
+}
+
+// Features
+.features-section {
+  background: #ccc;
+
+}
+
+// About
+.about-section {
+
+}
+
+// Services
+.services-section {
+  background: #ccc;
+
+
+}
+// Posts
+.posts-section {
+
+}
+// Contact
+.contact-section {
+  background: #ccc;
+
+}

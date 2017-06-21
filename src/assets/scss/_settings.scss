@@ -1,8 +1,23 @@
-// import vendor styles
+/*
+ * Settings File
+ * Start v0.1.0
+ */
 
+
+// import global variables & mixins
+@import 'global/variables';
+@import 'global/mixins';
+
+// import vendor styles
 @import 'vendor/bootstrap';
 @import 'vendor/animate';
+
+// import base styles and layout
 @import 'base/layout';
 @import 'base/typography';
-@import 'sections/hero';
-@import 'sections/portfolio';
+@import 'base/navigation';
+
+// import sections
+@import 'sections/sections';
+
+
