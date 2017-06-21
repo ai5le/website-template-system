@@ -2,13 +2,13 @@
 
 <b>Last Update: June 21, 2017</b>
 
-** NOTE: I am currently working to make this into a complete starter website templating system 
+** NOTE: I am currently working to make this into a complete starter website templating system. 
 
 ** Please feel free to contribute **
 
 This website template system is the perfect place to start your next web design and development project.
 
-This is not a complete website template, it is to be a starting point.
+This is not a complete website template, it is not for creating a dynamic website. It is only a starting point in creating a design and should be treated as only a template.
 
 This website template system will work on any computer.
 
