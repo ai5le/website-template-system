@@ -1,29 +1,35 @@
-
 $center-it:translateY(-50%);
-
-.hero .intro {height: 100vh; 
-  background: url('https://unsplash.it/2000?random') center fixed no-repeat; color: #eee!important; text-shadow: 0 2px 4px #000; background-size: cover;
-  .intro-title {
-      position: relative;
-  top: 50%;
-  transform: $center-it;
-  font-family: arial;
-  font-size: 30px;
-  line-height: 1.8em;
-  h1 {
-    font-size: 82px;
-    font-family: 'Raleway', 'Helvetica Neue', Helvetica, sans-serif;
-    font-weight: 100;
-  }
-  }
-
+.intro {
+    height: 100vh!important;
+    background: url('https://unsplash.it/2000?random') center fixed no-repeat;
+    color: #eee!important;
+    text-shadow: 0 2px 4px #000;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    .intro-title {
+        position: relative;
+        top: 50%;
+        transform: $center-it;
+        font-family: arial;
+        font-size: 30px;
+        line-height: 1.8em;
+        h1 {
+            font-size: 82px;
+            font-family: 'Raleway', 'Helvetica Neue', Helvetica, sans-serif;
+            font-weight: 100;
+        }
+    }
 }
 
 .down-arrow {
-  font-family: FontAwesome;
-  font-size: 2em;
-  color: #fff;
-  content: '\f109';
-  position: absolute;
-left: 50%;
-bottom: 0;}
+    font-family: FontAwesome;
+    font-size: 2em;
+    color: #fff;
+    content: '\f109';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+}
