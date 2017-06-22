@@ -35,3 +35,9 @@ npm i && bower i
 ```
 
 Finally, run `npm start` to start the template system.
+
+<img src="Co.name.png">
+
+![alt text][logo]
+
+![alt text](snapshot.png)
