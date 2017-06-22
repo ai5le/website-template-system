@@ -1,5 +1,7 @@
 # Website Template System 
 
+![alt text](snapshot.png)
+
 <b>Last Update: June 21, 2017</b>
 
 ** NOTE: I am currently working to make this into a complete starter website templating system. 
@@ -36,8 +38,6 @@ npm i && bower i
 
 Finally, run `npm start` to start the template system.
 
-<img src="Co.name.png">
+---
 
-![alt text][logo]
 
-![alt text](snapshot.png)
