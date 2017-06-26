@@ -49,3 +49,23 @@
     position: absolute!important;
     top: 95vh;
 }
+
+@media (max-width: 750px) {
+    footer {
+        text-align: center!important;
+        padding: 1em;
+        h3 {}
+        ul {
+            align-self: center;
+        }
+    }
+    .navbar {
+        background: #222;
+        a {
+            color: #999;
+        }
+    }
+    .icon-bar {
+        background-color: #fff!important;
+    }
+}

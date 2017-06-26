@@ -8,12 +8,13 @@
 @import 'global/mixins';
 // import vendor styles
 @import 'vendor/bootstrap';
-@import 'vendor/gsdk';
 @import 'vendor/animate';
 // import base styles and layout
 @import 'base/layout';
 @import 'base/typography';
 @import 'base/navigation';
+// Import Components
+@import 'components/buttons';
 // import sections
 @import 'sections/sections';
 @import 'sections/hero';
