@@ -1,3 +1,6 @@
+"use strict";
+
+// add the required plugins
 var gulp = require('gulp');
 const chalk = require('chalk');
 var panini = require('panini');
@@ -12,7 +15,7 @@ var cache = require('gulp-cache');
 var sketch = require('gulp-sketch');
 
 
-// Task Serve - Create a server for rapid development
+// task: server - serve the dist folder for rapid development
 gulp.task('serve', ['sass'], function() {
     browserSync.init({
         server: "dist"
